@@ -1,0 +1,4 @@
+robotpy
+numpy
+opencv-python
+dt-apriltags
